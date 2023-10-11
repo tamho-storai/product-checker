@@ -1,0 +1,8 @@
+requests
+pymsteams
+pandas
+pyspark
+python-decouple
+azure-storage-blob
+Flask
+
